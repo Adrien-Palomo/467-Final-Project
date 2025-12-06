@@ -7,6 +7,6 @@
     "flow:stop": "flow stop"
   },
   "devDependencies": {
-    "flow-bin": "^0.235.0"
+    "flow-bin": "^0.235.1"
   }
 }

@@ -1,0 +1,12 @@
+{
+  "name": "flow-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "flow": "flow check",
+    "flow:start": "flow start",
+    "flow:stop": "flow stop"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.235.0"
+  }
+}
